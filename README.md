@@ -10,7 +10,7 @@
 <p align="left">
 <a href="https://linkedin.com/in/siddharth-tulli-5229391b7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="siddharth-tulli-5229391b7" height="30" width="40" /></a>
 <a href="https://instagram.com/siddharthtulli" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="siddharthtulli" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/@lensview28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="@lensview28" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/lensview28" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="lensview28" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

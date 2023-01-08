@@ -1,7 +1,7 @@
 <!-- ![MasterHead](https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg) -->
 <img align="center" alt="head" width="100%" height="200" src="https://ou.ac.lk/wp-content/uploads/2021/04/Software-Development.jpg">
 <h1 align="center">Hi 👋, I'm Siddharth Tulli</h1>
-<h3 align="center">Creative, analytical, diligent & detail-oriented person.</h3>
+<h3 align="center">Creative, Analytical, Diligent & Detail-oriented person.</h3>
 <h3 align="center">Enthusiast & Passionate developer to contribute an organization with my coding abilities</h3>
 
 - 📫 How to reach me **siddharthtulli28@gmail.com**
